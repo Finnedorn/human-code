@@ -1,0 +1,26 @@
+**************************************************************************************************************************************
+Comprare qualcosa su Amazon 
+Il regalo perfetto.
+
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
+**************************************************************************************************************************************
+
+1. Dichiaro cio' che mi serve per fare il regalo
+ 1.1 Lista: Telefono/Computer, App Amazon/Sito Amazon, Budget 
+2. Accedo ad app/sito Amazon
+3. Inizio la ricerca dei regali (Ciclo)
+    3.1. Cerco la lampada che le piaceva tanto 
+     3.1.1 Ha la consegna con Prime e rientra nel budget?
+        3.1-a Si? Vai al punto 4
+        3.1-b No? Torno al punto 3
+    3.2 Cerco la penna stilografica 
+      3.2.1 Ha la consegna con Prime e rientra nel budget?
+        3.1-a Si? Vai al punto X
+        3.1-b No? Torno al punto 3
+    3.3 Cerco un buon libro
+      3.3.1 Ha la consegna con Prime e rientra nel budget?
+        3.1-a Si? Vai al punto 4
+        3.1-b No? Torno al punto 3
+4. Aggiungo l'ordine al carrello
+5. Inserisco dati di fatturazione
+6. Eseguo l'ordine 
